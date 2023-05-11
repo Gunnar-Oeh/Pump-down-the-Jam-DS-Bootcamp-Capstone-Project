@@ -1,4 +1,4 @@
-# "Pump down the jam" - Predicting traffic density to help you skip the jams &#
+# "Pump down the jam" - Predicting traffic density to help you skip the jams
 # A Data-Science capstone project
 
 This repository is the result of a four week long capstone project phase. It concludes the [neuefische bootcamp Data Science](https://www.neuefische.de/bootcamp/data-science) from January to March 2023.
